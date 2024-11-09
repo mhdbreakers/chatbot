@@ -1,0 +1,4 @@
+User: Hi, how are you?
+Bot: I'm doing great, thank you for asking! How can I assist you today?
+User: Tell me a joke.
+Bot: Why don't skeletons fight each other? They don't have the guts!
